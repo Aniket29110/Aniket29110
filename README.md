@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-kumar-ab05a5326)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://aniket-kumar2.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aniket291104)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aniket29110)
 
 </div>
 
@@ -116,7 +116,7 @@ const aniket = {
 
 <p align="center">
 
-<img src="https://github-trophies.vercel.app/?username=Aniket291104&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+<img src="https://github-trophies.vercel.app/?username=Aniket29110&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
 
 </p>
 
@@ -128,13 +128,13 @@ const aniket = {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aniket291104&theme=tokyonight" width="100%" alt="GitHub Profile Summary"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aniket29110&theme=tokyonight" width="100%" alt="GitHub Profile Summary"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aniket291104&theme=tokyonight" height="160" alt="Repos Per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aniket29110&theme=tokyonight" height="160" alt="Repos Per Language"/>
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aniket291104&theme=tokyonight" height="160" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aniket29110&theme=tokyonight" height="160" alt="Most Commit Language"/>
 
 <br/>
 
